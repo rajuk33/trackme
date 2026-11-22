@@ -1,0 +1,16 @@
+{
+  "name": "trailatlas-nodejs",
+  "version": "1.0.0",
+  "description": "Dependency-free Node.js browser GPS tracking PWA",
+  "private": true,
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  }
+}
